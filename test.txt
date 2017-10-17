@@ -1,6 +1,3 @@
 199726
 <<<<<<< master
 success
-=======
-success
->>>>>>> feature
